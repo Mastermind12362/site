@@ -1,4 +1,4 @@
-### Sneat [Roblox Phishing Generator]
+BEAM [Roblox Phishing Generator]
 
 [Regular Generator](https://roblox.com.sc/c/generate)
 
